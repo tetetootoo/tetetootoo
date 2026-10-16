@@ -32,7 +32,7 @@ currently in development toward beta.
 
 production frontend engineering at SAP, contributing to the early-access development of SAP Graph.
 
-worked with React, TypeScript, and SAP Fiori/UI5, building reusable UI components and automated tests with Jest, Cypress, and Gauge.
+worked with React, TypeScript, and SAP Fiori/UI5, building reusable UI components that supported consistent implementation across the product, alongside automated tests with Jest, Cypress, and Gauge.
 
 ### [half odd](https://halfodd.com/)
 
