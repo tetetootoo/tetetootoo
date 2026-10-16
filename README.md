@@ -1,4 +1,5 @@
-hi, i'm theresa.
+
+# hi, i'm theresa.
 
 software engineer & product designer.
 
@@ -8,32 +9,32 @@ i'm particularly interested in making design and engineering part of the same pr
 
 ## what i work with
 
-**engineering**\
-React · TypeScript · JavaScript · HTML/CSS · API integrations · Git · automated testing
+**engineering**  
+React · TypeScript · JavaScript · HTML/CSS · API integrations · Git · automated testing · accessible UI engineering
 
-**design**\
+**design**  
 Product design · Interaction design · UX/UI · Design systems · Prototyping
 
-**ai-assisted development**\
+**ai-assisted development**  
 Codex · Claude Code
 
 ## selected work
 
-### wrestling octopi
+### [wrestling octopi](https://www.halfodd.com/#wrestling-octopi-case-study)
 
 a social media management product i'm designing and engineering end-to-end.
 
-built with React and TypeScript, with reusable components, API integrations, automated testing, and accessible interaction patterns.
+built with React and TypeScript, with reusable components, API integrations, automated testing, and accessible interaction patterns, including keyboard-operable feed ordering and focus management.
 
 currently in development toward beta.
 
-### sap graph
+### [sap graph](https://www.halfodd.com/#sap-graph-case-study)
 
 production frontend engineering at SAP, contributing to the early-access development of SAP Graph.
 
 worked with React, TypeScript, and SAP Fiori/UI5, building reusable UI components and automated tests with Jest, Cypress, and Gauge.
 
-### half odd
+### [half odd](https://halfodd.com/)
 
 my independent design and engineering practice, bringing together product design, visual identities, interaction design, and software development.
 
